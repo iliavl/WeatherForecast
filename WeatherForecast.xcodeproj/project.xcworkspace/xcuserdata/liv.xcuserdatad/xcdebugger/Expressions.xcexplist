@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.(loadDataJson() -&gt; ()).(closure #1):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "json[&quot;weather&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "self.weathersMains[0]">
+            </PersistentString>
+            <PersistentString
+               value = "self.weathersSystem[0].country">
+            </PersistentString>
+            <PersistentString
+               value = "json[&quot;main&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "self.labelCountry.text">
+            </PersistentString>
+            <PersistentString
+               value = "self.weathersCountry[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.addToDBCoreData(name : String, id : Int, country : String) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "context.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.(loadDataJson(cityName : String) -&gt; ()).(closure #1):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "weatherWind">
+            </PersistentString>
+            <PersistentString
+               value = "cityName">
+            </PersistentString>
+            <PersistentString
+               value = "parameter">
+            </PersistentString>
+            <PersistentString
+               value = "weatherArray">
+            </PersistentString>
+            <PersistentString
+               value = "weatherMain">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.viewDidLoad() -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "textFieldCity.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CitiesListViewController.tableView(UITableView, numberOfRowsInSection : Int) -&gt; Int:CitiesListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "citiesArray.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DateVC.viewDidLoad() -&gt; ():DateVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "array">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.setLabels() -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "btnAddToFav.frame.width">
+            </PersistentString>
+            <PersistentString
+               value = "labelCountry.frame.width/2&#10;labelCountry.frame.width/2&#10;">
+            </PersistentString>
+            <PersistentString
+               value = "view.frame.size.width - btnAddToFav.frame.size.width">
+            </PersistentString>
+            <PersistentString
+               value = "view.frame.size.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.tbaDate(UITextField) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "datePickerView.maximumDate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.(loadDataJson(cityName : String) -&gt; ()).(closure #1).(closure #1):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.weathersMains[0].temp">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CitiesListViewController.tableView(UITableView, didSelectRowAt : IndexPath) -&gt; ():CitiesListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tableViewCity.cellForRow(at: indexPath).title">
+            </PersistentString>
+            <PersistentString
+               value = "cell.labelCityCell.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

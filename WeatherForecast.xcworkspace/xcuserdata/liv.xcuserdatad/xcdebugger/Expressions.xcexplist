@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CitiesListViewController.viewDidLoad() -&gt; ():CitiesListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "citiesArray">
+            </PersistentString>
+            <PersistentString
+               value = "filteredCitiesArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.btnADetail(UIButton) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "citiesArray">
+            </PersistentString>
+            <PersistentString
+               value = "searchController.searchBar.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.btnDetail(UIButton) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "delegate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.prepare(for : UIStoryboardSegue, sender : Any?) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "delegate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailViewController.showInTable() -&gt; ():DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tableParameters[&quot;pressure&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "tableParameters[&quot;pressure&quot;] as! String?">
+            </PersistentString>
+            <PersistentString
+               value = "String(format: &quot;%.0f&quot;, temp)">
+            </PersistentString>
+            <PersistentString
+               value = "WeatherData.shared.parameters">
+            </PersistentString>
+            <PersistentString
+               value = "tableParameters[&quot;temp&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "String(temp)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FullCitiesListViewController.tableView(UITableView, didSelectRowAt : IndexPath) -&gt; ():FullCitiesListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell?.labelCityCell.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.(viewDidAppear(Bool) -&gt; ()).(closure #1):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "btnDetail.center.y">
+            </PersistentString>
+            <PersistentString
+               value = "self.btnAddToFav.center.x">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CitiesListViewController.updateSearchResults(for : UISearchController) -&gt; ():CitiesListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "citiesArray">
+            </PersistentString>
+            <PersistentString
+               value = "searchController.searchBar.text">
+            </PersistentString>
+            <PersistentString
+               value = "filteredCitiesArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.(loadDataJson(cityName : String) -&gt; ()).(closure #1):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "weatherWind">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.realmLoadFromDBFav() -&gt; ():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.(loadDataJsonAfterChangeDay(cityName : String) -&gt; ()).(closure #1):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "weather">
+            </PersistentString>
+            <PersistentString
+               value = "weatherArray[6]">
+            </PersistentString>
+            <PersistentString
+               value = "wd1[2]">
+            </PersistentString>
+            <PersistentString
+               value = "weatherArray">
+            </PersistentString>
+            <PersistentString
+               value = "wd1[&quot;weather&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "wd2?[&quot;weather&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.viewWillAppear(Bool) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "view.bounds.height">
+            </PersistentString>
+            <PersistentString
+               value = "self.btnDetail.center.y">
+            </PersistentString>
+            <PersistentString
+               value = "loadCounter">
+            </PersistentString>
+            <PersistentString
+               value = "btnDetail.center.y">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.(loadDataJsonAfterChangeDay(cityName : String, day : Int) -&gt; ()).(closure #1):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "weather.count">
+            </PersistentString>
+            <PersistentString
+               value = "id">
+            </PersistentString>
+            <PersistentString
+               value = "weather[&quot;id&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "WeatherData.shared.parameters[&quot;temp&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "self.weathersMains">
+            </PersistentString>
+            <PersistentString
+               value = "weather?[&quot;icon&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "self.weathersMains[0].temp">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailViewController.prepare(for : UIStoryboardSegue, sender : Any?) -&gt; ():DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "destinationVC">
+            </PersistentString>
+            <PersistentString
+               value = "delegate">
+            </PersistentString>
+            <PersistentString
+               value = "segue.identifier">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FullCitiesListViewController.realmLoadFromDBFullCities() -&gt; ():FullCitiesListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cities[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.handleDatePicker(sender : UIDatePicker) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "citiesArray">
+            </PersistentString>
+            <PersistentString
+               value = "sender.date">
+            </PersistentString>
+            <PersistentString
+               value = "filteredCitiesArray">
+            </PersistentString>
+            <PersistentString
+               value = "components.day">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.viewDidLoad() -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dateformatter.date(from: strTime)">
+            </PersistentString>
+            <PersistentString
+               value = "btnAddToFav.isHidden">
+            </PersistentString>
+            <PersistentString
+               value = "tfDate.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.viewDidAppear(Bool) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.btnDetail.center.y">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailViewController.ConverterWindDirection(deg : Double) -&gt; String:DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "348.75 &gt;= deg">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.(realmDeleteObjectFromDBWithFilter() -&gt; ()).(closure #1):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "&quot;name = &apos;\(textFieldCity.text)&apos;&quot;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

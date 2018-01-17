@@ -1,0 +1,47 @@
+[
+{
+    "id": 703448,
+    "name": "Kiev",
+    "country": "UA",
+    "coord": {
+        "lon": 30.516666,
+        "lat": 50.433334
+    }
+},
+{
+    "id": 706483,
+    "name": "Kharkiv",
+    "country": "UA",
+    "coord": {
+        "lon": 36.25,
+        "lat": 50
+    }
+},
+{
+    "id": 5527554,
+    "name": "Odessa",
+    "country": "US",
+    "coord": {
+        "lon": -102.367638,
+        "lat": 31.84568
+    }
+},
+{
+    "id": 709717,
+    "name": "Donetsk",
+    "country": "UA",
+    "coord": {
+        "lon": 37.799999,
+        "lat": 48
+    }
+},
+{
+    "id": 694423,
+    "name": "Sevastopol",
+    "country": "UA",
+    "coord": {
+        "lon": 33.533333,
+        "lat": 44.599998
+    }
+}
+ ]
